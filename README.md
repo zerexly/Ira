@@ -1,2 +1,1 @@
-# Ira
-A Discord Bot
+# ira
